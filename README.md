@@ -34,7 +34,7 @@ Use the `appBase` option to set you app base directory (defaults to
 `process.cwd() + '/app'`)
 
 Use the `mockBase` option to set your mocks base directory (defaults to
-`/mock'`).
+`'/mock'`).
 
 Use the `cleanCacheOnRefresh` option to enable/disable cycle resetting (defaults
 to `true`).
