@@ -15,9 +15,10 @@ describe('awesome', function() {
   });
 
   describe('no args', function() {
-    it('should be awesome', function() {
-      expect(mockery.awesome()).to.equal('awesome');
-    });
+    console.log('Hey! Write some tests!');
+    // it('should be awesome', function() {
+    //   expect(mockery.awesome()).to.equal('awesome');
+    // });
   });
 
 });
