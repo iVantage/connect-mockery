@@ -1,7 +1,7 @@
 {
   "name": "connect-mockery",
   "description": "Connect middleware for simple resource mocking in single page apps",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "homepage": "https://github.com/ivantage/connect-mockery",
   "author": {
     "name": "jtrussell",

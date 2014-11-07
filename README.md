@@ -64,6 +64,7 @@ Add unit tests for any new or changed functionality. Lint and test your code
 using [Grunt](http://gruntjs.com/).
 
 ## Release History
+- v0.1.1 Only try to send files (i.e. not folders)
 - v0.1.0 Initial release
 
 ## License
